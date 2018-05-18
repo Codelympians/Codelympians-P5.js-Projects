@@ -2,6 +2,7 @@
 A new place for Codelympians members to share their projects made using the p5.js drawing library
 
 ## Upload Guidelines
+* Uploading currently restricted to Codelympians club members only.
 * Only p5.js or Processing project submissions will not be accepted. Please create or use another repository for other projects. 
 * Every folder in the root directory of this repository will be dedicated to one project only
 * Each project folder must be named in the following format: PROJECT_NAME (by CREATOR_NAME)
