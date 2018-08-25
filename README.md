@@ -18,9 +18,34 @@ A new place for Codelympians members to share their projects made using the p5.j
     <td><b>SHORT DISCRIPTION</b></td>
   </tr>
   <tr>
+    <td>Stone</td>
+    <td><a href="https://github.com/StoneT2000/Polytomizator">Polytomizator</a></td>
+    <td>Make/generate poly art with an uploaded image.</td>
+  </tr>
+  <tr>
     <td>Vincent</td>
     <td><a href="https://github.com/Vince14Genius/mourning-simulator-p5">Mourning Simulator P5</a></td>
     <td>Satirical mourning simulator with exaggerated celebration animation & music</td>
+  </tr>
+  <tr>
+    <td>Stone</td>
+    <td><a href="https://github.com/StoneT2000/Javascript-Image-Filtering">JS Image Filtering</a></td>
+    <td>Apply image filters through javascript and p5.js</td>
+  </tr>
+  <tr>
+    <td>Stone</td>
+    <td><a href="https://github.com/StoneT2000/Mondrian-Generator">Mondrian Art Generator</a></td>
+    <td>Generate Mondrian-esque art</td>
+  </tr>
+  <tr>
+    <td>Stone</td>
+    <td><a href="https://github.com/StoneT2000/Cut-Bread">Cut Bread</a></td>
+    <td>Cut food and see how good you are at cutting even slices with this web app</td>
+  </tr>
+  <tr>
+    <td>Vincent</td>
+    <td><a href="https://github.com/Vince14Genius/Simple-3D-Renderer-using-p5.js">Simple 3D Renderer</a></td>
+    <td>A simple 3D renderer done with basic vectors and trigonometric operations</td>
   </tr>
 </table>
 
