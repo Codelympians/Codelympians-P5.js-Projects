@@ -10,6 +10,20 @@ A new place for Codelympians members to share their projects made using the p5.j
 * Each project folder must be subdivided into folders containing the files for each version, EVEN IF there is currently only one version available
 * For versions of a project that are not made by the creator of the project, add (by REMIXER_NAME) to the end of the version folder name
 
+## \[NEW\] Projects with Standalone Repositories
+<table>
+  <tr>
+    <td><b>CREATOR</b></td>
+    <td><b>NAME AND LINK</b></td>
+    <td><b>SHORT DISCRIPTION</b></td>
+  </tr>
+  <tr>
+    <td>Vincent</td>
+    <td><a href="https://github.com/Vince14Genius/mourning-simulator-p5">Mourning Simulator P5</a></td>
+    <td>Satirical mourning simulator with exaggerated celebration animation & music</td>
+  </tr>
+</table>
+
 ## P5.js Resources
 <em>Disclaimer: Codelympians does not own p5.js; we're simply using it to help us learn and create. </em>
 
