@@ -47,6 +47,11 @@ A new place for Codelympians members to share their projects made using the p5.j
     <td><a href="https://github.com/Vince14Genius/Simple-3D-Renderer-using-p5.js">Simple 3D Renderer</a></td>
     <td>A simple 3D renderer done with basic vectors and trigonometric operations</td>
   </tr>
+  <tr>
+    <td>Vincent & William</td>
+    <td><a href="https://github.com/Codelympians/Japanese-Kana-Flashcards">Japanese Kana Flashcards</a></td>
+    <td>A flashcards tool for Japanese beginners to memorize hiragana and katakana</td>
+  </tr>
 </table>
 
 ## P5.js Resources
