@@ -11,41 +11,6 @@ If you want to create a new project: [Codelympians Recommended p5.js Template](h
     <td><b>SHORT DISCRIPTION</b></td>
   </tr>
   <tr>
-    <td>Stone</td>
-    <td><a href="https://github.com/StoneT2000/Polytomizator">Polytomizator</a></td>
-    <td>Make/generate poly art with an uploaded image.</td>
-  </tr>
-  <tr>
-    <td>Vincent</td>
-    <td><a href="https://github.com/Vince14Genius/mourning-simulator-p5">Mourning Simulator P5</a></td>
-    <td>Satirical mourning simulator with exaggerated celebration animation & music</td>
-  </tr>
-  <tr>
-    <td>Stone</td>
-    <td><a href="https://github.com/StoneT2000/Javascript-Image-Filtering">JS Image Filtering</a></td>
-    <td>Apply image filters through javascript and p5.js</td>
-  </tr>
-  <tr>
-    <td>Stone</td>
-    <td><a href="https://github.com/StoneT2000/Mondrian-Generator">Mondrian Art Generator</a></td>
-    <td>Generate Mondrian-esque art</td>
-  </tr>
-  <tr>
-    <td>Stone</td>
-    <td><a href="https://github.com/StoneT2000/Cut-Bread">Cut Bread</a></td>
-    <td>Cut food and see how good you are at cutting even slices with this web app</td>
-  </tr>
-  <tr>
-    <td>Vincent</td>
-    <td><a href="https://github.com/Vince14Genius/Simple-3D-Renderer-using-p5.js">Simple 3D Renderer</a></td>
-    <td>A simple 3D renderer done with basic vectors and trigonometric operations</td>
-  </tr>
-  <tr>
-    <td>Vincent & William</td>
-    <td><a href="https://github.com/Codelympians/Japanese-Kana-Flashcards">Japanese Kana Flashcards</a></td>
-    <td>A flashcards tool for Japanese beginners to memorize hiragana and katakana</td>
-  </tr>
-  <tr>
     <td>Vincent</td>
     <td><a href="https://github.com/Vince14Genius/Miscellaneous-p5.js-Projects">Miscellaneous Projects</a></td>
     <td>
@@ -61,6 +26,41 @@ If you want to create a new project: [Codelympians Recommended p5.js Template](h
         <li>Staggering Ugly</li>
       </ul>
     </td>
+  </tr>
+  <tr>
+    <td>Vincent & William</td>
+    <td><a href="https://github.com/Codelympians/Japanese-Kana-Flashcards">Japanese Kana Flashcards</a></td>
+    <td>A flashcards tool for Japanese beginners to memorize hiragana and katakana</td>
+  </tr>
+  <tr>
+    <td>Vincent</td>
+    <td><a href="https://github.com/Vince14Genius/Simple-3D-Renderer-using-p5.js">Simple 3D Renderer</a></td>
+    <td>A simple 3D renderer done with basic vectors and trigonometric operations</td>
+  </tr>
+  <tr>
+    <td>Stone</td>
+    <td><a href="https://github.com/StoneT2000/Cut-Bread">Cut Bread</a></td>
+    <td>Cut food and see how good you are at cutting even slices with this web app</td>
+  </tr>
+  <tr>
+    <td>Stone</td>
+    <td><a href="https://github.com/StoneT2000/Mondrian-Generator">Mondrian Art Generator</a></td>
+    <td>Generate Mondrian-esque art</td>
+  </tr>
+  <tr>
+    <td>Stone</td>
+    <td><a href="https://github.com/StoneT2000/Javascript-Image-Filtering">JS Image Filtering</a></td>
+    <td>Apply image filters through javascript and p5.js</td>
+  </tr>
+  <tr>
+    <td>Vincent</td>
+    <td><a href="https://github.com/Vince14Genius/mourning-simulator-p5">Mourning Simulator P5</a></td>
+    <td>Satirical mourning simulator with exaggerated celebration animation & music</td>
+  </tr>
+  <tr>
+    <td>Stone</td>
+    <td><a href="https://github.com/StoneT2000/Polytomizator">Polytomizator</a></td>
+    <td>Make/generate poly art with an uploaded image.</td>
   </tr>
 </table>
 
