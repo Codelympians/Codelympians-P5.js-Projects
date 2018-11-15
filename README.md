@@ -10,6 +10,22 @@ If you want to create a new project: [Codelympians Recommended p5.js Template](h
     <td><b>NAME AND LINK</b></td>
     <td><b>SHORT DISCRIPTION</b></td>
   </tr>
+
+  <tr>
+    <td>Vincent & William</td>
+    <td><a href="https://github.com/Codelympians/Japanese-Kana-Flashcards">Japanese Kana Flashcards</a></td>
+    <td>A flashcards tool for Japanese beginners to memorize hiragana and katakana</td>
+  </tr>
+  <tr>
+    <td>Vincent</td>
+    <td><a href="https://github.com/Vince14Genius/Simple-3D-Renderer-using-p5.js">Simple 3D Renderer</a></td>
+    <td>A simple 3D renderer done with basic vectors and trigonometric operations</td>
+  </tr>
+  <tr>
+    <td>Stone</td>
+    <td><a href="https://github.com/StoneT2000/Cut-Bread">Cut Bread</a></td>
+    <td>Cut food and see how good you are at cutting even slices with this web app</td>
+  </tr>
   <tr>
     <td>Vincent</td>
     <td><a href="https://github.com/Vince14Genius/Miscellaneous-p5.js-Projects">Miscellaneous Projects</a></td>
@@ -28,19 +44,9 @@ If you want to create a new project: [Codelympians Recommended p5.js Template](h
     </td>
   </tr>
   <tr>
-    <td>Vincent & William</td>
-    <td><a href="https://github.com/Codelympians/Japanese-Kana-Flashcards">Japanese Kana Flashcards</a></td>
-    <td>A flashcards tool for Japanese beginners to memorize hiragana and katakana</td>
-  </tr>
-  <tr>
     <td>Vincent</td>
-    <td><a href="https://github.com/Vince14Genius/Simple-3D-Renderer-using-p5.js">Simple 3D Renderer</a></td>
-    <td>A simple 3D renderer done with basic vectors and trigonometric operations</td>
-  </tr>
-  <tr>
-    <td>Stone</td>
-    <td><a href="https://github.com/StoneT2000/Cut-Bread">Cut Bread</a></td>
-    <td>Cut food and see how good you are at cutting even slices with this web app</td>
+    <td><a href="https://github.com/Vince14Genius/Draggable-Gravitational-Field-Demo">Gravitational Field Demo</a></td>
+    <td>A gravitational field physics simulation created to demo pre-OOP coding knowledge</td>
   </tr>
   <tr>
     <td>Stone</td>
@@ -60,7 +66,12 @@ If you want to create a new project: [Codelympians Recommended p5.js Template](h
   <tr>
     <td>Stone</td>
     <td><a href="https://github.com/StoneT2000/Polytomizator">Polytomizator</a></td>
-    <td>Make/generate poly art with an uploaded image.</td>
+    <td>Make/generate poly art with an uploaded image</td>
+  </tr>
+  <tr>
+    <td>Vincent</td>
+    <td><a href="https://github.com/Vince14Genius/Tiles-of-Arenas">Tiles of Arenas</a></td>
+    <td>A simple tile-based multiplayer strategy game</td>
   </tr>
 </table>
 
