@@ -5,7 +5,9 @@ If you want to create a new project: [Codelympians Recommended p5.js Template](h
 
 ## Upload Guidelines
 <b>PLEASE try to upload your projects to standalone repositories, then add the links in the table below</b>
+
 If you have to upload your project directly to this repository:
+
 * Uploading currently restricted to Codelympians club members only.
 * Only p5.js or Processing project submissions will be accepted. Please create or use another repository for other projects. 
 * Every folder in the root directory of this repository will be dedicated to one project only
