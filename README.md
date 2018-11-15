@@ -58,6 +58,23 @@ If you have to upload your project directly to this repository:
     <td><a href="https://github.com/Codelympians/Japanese-Kana-Flashcards">Japanese Kana Flashcards</a></td>
     <td>A flashcards tool for Japanese beginners to memorize hiragana and katakana</td>
   </tr>
+  <tr>
+    <td>Vincent</td>
+    <td><a href="https://github.com/Vince14Genius/Miscellaneous-p5.js-Projects">Miscellaneous Projects</a></td>
+    <td>
+      <p>A collection of misc. projects and replicas of classical games, names listed below:</p>
+      <ul>
+        <li>2048 P5</li>
+        <li>Cell Arena</li>
+        <li>Codelympians Pong</li>
+        <li>Flappy Bird</li>
+        <li>Jump-a-Jump</li>
+        <li>Physics Engine (Beta)</li>
+        <li>Piano Tiles</li>
+        <li>Staggering Ugly</li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
 ## P5.js Resources
