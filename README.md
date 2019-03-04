@@ -60,6 +60,11 @@ If you want to create a new project: [Codelympians Recommended p5.js Template](h
   </tr>
   <tr>
     <td>Stone</td>
+    <td><a href="https://github.com/StoneT2000/Erase-Hate-Comments">Erase Hate Comments</a></td>
+    <td>Erase all those hate comments for your own satisfaction</td>
+  </tr>
+  <tr>
+    <td>Stone</td>
     <td><a href="https://github.com/StoneT2000/Mondrian-Generator">Mondrian Art Generator</a></td>
     <td>Generate Mondrian-esque art</td>
   </tr>
