@@ -14,12 +14,12 @@ If you want to create a new project: [Codelympians Recommended p5.js Template](h
   <tr>
     <td>Vincent</td>
     <td><a href="https://github.com/Codelympians/whiteboard">WhiteboardJS</a></td>
-    <td>A handy whiteboard for brainstorming, teaching, doodling, etc.</td>
+    <td>[NEW] A handy whiteboard for brainstorming, teaching, doodling, etc.</td>
   </tr>
   <tr>
     <td>Vincent</td>
     <td><a href="https://github.com/Codelympians/FlashcardsKitJS">FlashcardsKitJS</a></td>
-    <td>A JavaScript toolkit for easily setting up new sets of flashcards</td>
+    <td>[NEW] A JavaScript toolkit for easily setting up new sets of flashcards</td>
   </tr>
   <tr>
     <td>Vincent & William</td>
