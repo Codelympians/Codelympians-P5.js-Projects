@@ -12,6 +12,16 @@ If you want to create a new project: [Codelympians Recommended p5.js Template](h
   </tr>
 
   <tr>
+    <td>Vincent</td>
+    <td><a href="https://github.com/Codelympians/whiteboard">WhiteboardJS</a></td>
+    <td>A handy whiteboard for brainstorming, teaching, doodling, etc.</td>
+  </tr>
+  <tr>
+    <td>Vincent</td>
+    <td><a href="https://github.com/Codelympians/FlashcardsKitJS">FlashcardsKitJS</a></td>
+    <td>A JavaScript toolkit for easily setting up new sets of flashcards</td>
+  </tr>
+  <tr>
     <td>Vincent & William</td>
     <td><a href="https://github.com/Codelympians/Japanese-Kana-Flashcards">Japanese Kana Flashcards</a></td>
     <td>A flashcards tool for Japanese beginners to memorize hiragana and katakana</td>
